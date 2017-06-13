@@ -1,0 +1,4 @@
+Watched and executed as per the comands shown in the videos provided via iso.
+Learned about the various directories in file system,
+common commands,compilation and did basic shell commands.
+Started learning python.
