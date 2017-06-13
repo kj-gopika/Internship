@@ -1,0 +1,3 @@
+Learned and practiced with Vi editor(online and then in terminal).
+Learned how to make,push and commit with repositeries in GitHub.
+Practiced commands in terminal.
