@@ -1,0 +1,3 @@
+Started working on the assignment 0. Learning more about the commands line manipulations. 
+Started learning about iterations and strings.
+
