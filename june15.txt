@@ -1,0 +1,3 @@
+Started working on the Google Python exercises.
+Completed one exercise,babynames based on regular expressions.
+Meanwhile trying out skipped exercises from thinkpython.
