@@ -1,0 +1,5 @@
+Tried to perform a python copy compilation.
+Encountered errors initially and ultimately did it.
+
+Tried to learn about terminal multiplexer(tmux).
+Installed it using apt-get and tried it.
