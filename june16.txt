@@ -1,0 +1,2 @@
+Learned about python utilities (os and os path modules).
+Try to do the second exercise of python google class.
